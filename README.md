@@ -1,1 +1,2 @@
-# polytrope
+This Jupyter notebook builds physical polytropes from the Lane-Emden equation.  Download the notebook onto your computer and run with [Jupyter technology](https://jupyter.org) or click on this badge [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mbradle/polytrope/blob/master/polytrope.ipynb) to run on [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index).
+
